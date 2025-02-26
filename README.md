@@ -9,7 +9,8 @@ preguntas frecuentes sobre información académica,
 servicios del campus, apoyo estudiantil, 
 desarrollo profesional y vida estudiantil.
 
-🎯 Objetivo del Proyecto
+🎯 Objetivo del Proyecto:
+
 Desarrollar un chatbot interactivo utilizando 
 React, con la asistencia de GitHub Copilot, 
 que proporcione respuestas automáticas y 
