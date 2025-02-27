@@ -1,4 +1,4 @@
-🔹 Chatbot Universitario con React y GitHub Copilot
+🔹 Chatbot Universitario con React y GitHub Copilot 🤖(BMO)
 
 📌 Definición del Problema
 
