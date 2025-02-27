@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useRef } from "react";
 //ARRAY CON LAS PREGUNTS Y LAS RESPUESTAS
 const respuestas = {
+  "hola":"¡Hola! Soy tu asistente virtual. Escribe 'opciones' para ver cómo puedo ayudarte.",
   "opciones": "Informacion Academica y Administrativa | Recursos y Servicios del campus | Apoyo y Bienestar Estudiantil | Orientacion Sobre Carrera y desarrollo profesional | Vida Estudiantil y eventos sociales",
   "gracias": "De nada es un gusto responderte si necesitas consultar otra cosa digita la palabra opciones",
 
